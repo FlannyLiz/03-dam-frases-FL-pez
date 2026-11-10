@@ -2,7 +2,7 @@
 
 class Frase {
   final int? id;
-  final String frase;2
+  final String frase;
   final String autor;
   
   const Frase({this.id, required this.frase, required this.autor});
@@ -21,4 +21,3 @@ class Frase {
     );
   }
 }
-```[cite: 1]
